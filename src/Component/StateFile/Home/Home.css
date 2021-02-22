@@ -1,0 +1,24 @@
+.home__ {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 100px;
+  height: 50px;
+  border: 1px solid lightblue;
+  align-items: center;
+  padding: 0 20px;
+}
+.home__button {
+  display: flex;
+  width: 200px;
+  justify-content: space-between;
+}
+.home__button1 {
+  width: 90px;
+  color: white;
+  background-color: green;
+}
+.home__button2 {
+  width: 90px;
+  background-color: red;
+  color: white;
+}

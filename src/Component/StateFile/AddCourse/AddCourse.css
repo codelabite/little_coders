@@ -1,0 +1,28 @@
+.input {
+  width: 400px;
+  height: 40px;
+  margin-right: 20px;
+  padding-left: 20px;
+}
+.btn {
+  width: 100px;
+  height: 40px;
+  background-color: aquamarine;
+  color: white;
+}
+.btn2 {
+  width: 100px;
+  height: 40px;
+  background-color: red;
+  color: white;
+}
+.holder {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.arrange {
+  margin-top: 20px;
+}
